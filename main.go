@@ -43,6 +43,7 @@ func main() {
 	http.Handle("/fonts/", http.StripPrefix("/fonts/", http.FileServer(http.Dir("fonts"))))
 	
 	http.HandleFunc("/", MostrarHome)
+	http.HandleFunc("/home", MostrarHome)
 	http.HandleFunc("/checate", MostrarChecate)
 	http.HandleFunc("/registro", MostrarRegistro)
 	http.HandleFunc("/contacto", MostrarContacto)
