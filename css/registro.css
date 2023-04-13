@@ -1,0 +1,611 @@
+/* screen - registro */
+
+.registro {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 768px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.registro .overlap-group6 {
+  height: 949px;
+  margin-top: -1.81px;
+  position: relative;
+  width: 1366px;
+}
+
+.registro .overlap-group4 {
+  height: 933px;
+  left: -1px;
+  position: absolute;
+  top: 16px;
+  width: 1367px;
+}
+
+.registro .shadows {
+  align-items: flex-end;
+  background-color: #00000069;
+  border-radius: 71px;
+  display: flex;
+  filter: blur(26.43px);;
+  height: 171px;
+  left: 58px;
+  min-width: 1183px;
+  opacity: 0.99;
+  padding: 32.0px 171px;
+  position: absolute;
+  top: 607px;
+}
+
+.registro .shadow1 {
+  background-color: #000000;
+  border-radius: 43px;
+  filter: blur(41.52px);;
+  height: 102px;
+  mix-blend-mode: multiply;
+  opacity: 0.41;
+  width: 841px;
+}
+
+.registro .form {
+  align-items: center;
+  gap: 105px;
+  left: 1px;
+  min-height: 933px;
+  top: 0;
+  width: 1366px;
+}
+
+.registro .overlap-group2 {
+  height: 783px;
+  position: relative;
+  width: 1366px;
+}
+
+.registro .rectngulo-1513 {
+  -webkit-backdrop-filter: blur(10.99px) brightness(129.79%);
+  backdrop-filter: blur(10.99px) brightness(129.79%);
+  background-color: #ffffffd2;
+  border-radius: 0px 18px 18px 0px;
+  height: 754px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.registro .by-continuing-you-a {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-montserrat);
+  font-size: 10px;
+  font-weight: 400;
+  left: 517px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 753px;
+  white-space: nowrap;
+}
+
+.registro .form-1 {
+  align-items: flex-start;
+  left: 356px;
+  min-height: 424px;
+  top: 306px;
+  width: 741px;
+}
+
+.registro .default-input {
+  flex-direction: column;
+  height: 85px;
+  justify-content: space-between;
+  width: 739px;
+}
+
+.registro .full-name {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-agrandirvariable-medium);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.5px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.registro .rectngulo-1511 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--mist-gray);
+  border-radius: 8px;
+  flex: 1;
+  height: 57px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  max-height: 57px;
+}
+
+.registro .default-input-1 {
+  height: 85px;
+  justify-content: space-between;
+  margin-left: 2.0px;
+  margin-top: 18px;
+}
+
+.registro .email {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-agrandirvariable-medium);
+  font-size: var(--font-size-xxxs);
+  font-weight: 500;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.registro .rectngulo-1511-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--mist-gray);
+  border-radius: 8px;
+  flex: 1;
+  height: 56px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  max-height: 56px;
+}
+
+.registro .default-input-2 {
+  align-items: flex-start;
+  gap: 7px;
+  margin-top: 20px;
+  min-height: 85px;
+}
+
+.registro .password {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-agrandirvariable-medium);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -2px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.registro .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--mist-gray);
+  border-radius: 8px;
+  display: flex;
+  gap: 362px;
+  height: 57px;
+  margin-left: 0;
+  min-width: 739px;
+  padding: 13.0px 32.0px;
+}
+
+.registro .must-be-at-least-6-characters {
+  color: var(--mist-gray);
+  font-family: var(--font-family-agrandirvariable-regular);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 23px;
+  min-width: 204px;
+  white-space: nowrap;
+}
+
+.registro .show-hide {
+  align-self: center;
+  display: flex;
+  height: 18px;
+  margin-bottom: 0.85px;
+  width: 31px;
+}
+
+.registro .icon-feather-eye-off {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 0.7px;
+  margin-right: 0.6px;
+  margin-top: 0.9px;
+  min-width: 29.72px;
+}
+
+.registro .trazado-container {
+  height: 19px;
+  margin-top: -0.91px;
+  position: relative;
+  width: 32px;
+}
+
+.registro .trazado-805 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.registro .trazado-806 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.registro .checkbox {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  margin-left: 2.0px;
+  margin-top: 23px;
+  width: 228px;
+}
+
+.registro .rectngulo-1513-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--mist-gray);
+  border-radius: 2px;
+  width: 50px;
+}
+
+.registro .sign-up-for-email-updates {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-agrandirvariable-medium);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-right: -2.0px;
+  margin-top: -1.1px;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.registro .default-button {
+  align-items: flex-end;
+  background-color: #ef295e;
+  border-radius: 8px;
+  height: 56px;
+  margin-top: 2px;
+  min-width: 739px;
+  padding: 15.0px 307.0px;
+}
+
+.registro .sign-up {
+  color: var(--white);
+  font-family: var(--font-family-agrandirvariable-bold);
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.80px;
+  line-height: 17px;
+  min-height: 23px;
+  min-width: 70px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.registro .already-have-an-account-log-in {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+  height: 21px;
+  left: 358px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+  width: 739px;
+}
+
+.registro .span0 {
+  font-weight: 400;
+}
+
+.registro .sign-up-1 {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-agrandirvariable-mediumwide);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  left: 621px;
+  letter-spacing: 0;
+  line-height: 144px;
+  position: absolute;
+  top: 144px;
+  white-space: nowrap;
+}
+
+.registro .place {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-agrandirvariable-mediumwide);
+  font-size: 41px;
+  font-weight: 500;
+  left: 579px;
+  letter-spacing: 0;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  white-space: nowrap;
+}
+
+.registro .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 27px;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 88.59px;
+  min-height: 45px;
+  width: 855px;
+}
+
+.registro .rectangle {
+  background-color: #cecece;
+  height: 1px;
+  width: 855px;
+}
+
+.registro .forgot-your-password-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 266px;
+  height: 22px;
+  margin-left: 1.2px;
+  min-width: 666px;
+}
+
+.registro .forgot-your-password {
+  align-self: flex-end;
+  color: #939393;
+  font-family: var(--font-family-larsseit-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 21px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.registro .forgot-your-password-1 {
+  color: #939393;
+  font-family: var(--font-family-larsseit-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.registro .lnea-container {
+  height: 34px;
+  top: 790px;
+  width: 107px;
+}
+
+.registro .lnea-1 {
+  height: 2px;
+  object-fit: cover;
+  top: 16px;
+  width: 107px;
+}
+
+.registro .lnea-2 {
+  height: 19px;
+  object-fit: cover;
+  top: 0;
+  width: 19px;
+}
+
+.registro .lnea-3 {
+  height: 19px;
+  object-fit: cover;
+  top: 16px;
+  width: 19px;
+}
+
+.registro .rectngulo-526 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 5px;
+  left: 755px;
+  position: absolute;
+  top: 643px;
+  width: 1px;
+}
+
+.registro .menu {
+  align-items: flex-start;
+  background-color: var(--thunder);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 100px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 0;
+}
+
+.registro .overlap-group {
+  height: 80px;
+  margin-bottom: 1.38px;
+  position: relative;
+  width: 250px;
+}
+
+.registro .txt_inicio {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 134px;
+  margin-top: 9.5px;
+  min-height: 37px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.registro .txt_checate {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 114px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.registro .txt_checate:hover {
+  transform: scale(1.1);
+}
+
+.registro .txt_dietas {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 90px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.registro .txt_dietas:hover {
+  transform: scale(1.1);
+}
+
+.registro .txt_citas {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 72px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.registro .txt_citas:hover {
+  transform: scale(1.1);
+}
+
+.registro .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-left: 29px;
+  min-height: 64px;
+  width: 120px;
+}
+
+.registro .txt_registro {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 0;
+  min-height: 37px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.registro .txt_registro:hover {
+  transform: scale(1.1);
+}
+
+.registro .sub_seleccion {
+  height: 6px;
+  object-fit: cover;
+  width: 118px;
+}
+
+.registro .txt_contacto {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 23px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 126px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.registro .txt_contacto:hover {
+  transform: scale(1.1);
+}
+
+.registro .tb_-busqueda {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 15px;
+  display: flex;
+  gap: 44px;
+  height: 43px;
+  justify-content: flex-end;
+  margin-bottom: 1.5px;
+  margin-left: 36px;
+  min-width: 187px;
+  padding: 4.2px 9.0px;
+}
+
+.registro .default {
+  display: flex;
+  margin-left: 2.0px;
+}
+
+.registro .default-input-3 {
+  display: flex;
+  flex-direction: column;
+  width: 739px;
+}
+
+.registro .form-2 {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.registro .lnea {
+  left: 0;
+  position: absolute;
+}

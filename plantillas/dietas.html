@@ -1,0 +1,92 @@
+{{define "dietas"}}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1366, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/dietas.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="dietas" />
+    <div class="container-center-horizontal">
+      <div class="dietas screen">
+        <div class="overlap-group6">
+          <div class="rectngulo-525"></div>
+          <div class="overlap-group4">
+            <div class="rectngulo-3"></div>
+            <div class="platillo-a-preparar">Platillo a preparar</div>
+            <img class="no-path-copia-4" src="img/nopath---copia--4--1x-png-1x-png@1x.png" alt="NoPath - copia (4)" />
+            <div class="overlap-group">
+              <img class="icon-bookmark" src="img/trazado-740@1x.png" alt="icon-bookmark" />
+            </div>
+            <div class="prep-10-min sourcesanspro-normal-slate-gray-22px">Prep: 10 min</div>
+            <div class="cook-30-min sourcesanspro-normal-slate-gray-22px">Cook: 30 min</div>
+            <div class="overlap-group1"><img class="trazado-703" src="img/trazado-703@1x.png" alt="Trazado 703" /></div>
+            <div class="easy sourcesanspro-normal-slate-gray-22px">Easy</div>
+            {{range.}}
+            <div class="txt_receta-gpt"><br />{{.Receta}}</div>
+            {{end}}
+            <div class="address sourcesanspro-normal-slate-gray-22px">4 servings</div>
+            <div class="overlap-group2">
+              <div class="rectngulo-512"></div>
+              <img class="trazado-704" src="img/trazado-704@1x.png" alt="Trazado 704" />
+            </div>
+            <img class="icon_catergoria" src="img/icon-catergoria@1x.png" alt="icon_catergoria" />
+            <div class="grupo-container">
+              <div class="grupo-1303"><img class="trazado-739" src="img/trazado-739-1@1x.png" alt="Trazado 739" /></div>
+              <div class="grupo-1304">
+                <div class="overlap-group-1">
+                  <img class="trazado-758" src="img/trazado-758@1x.png" alt="Trazado 758" />
+                  <img class="trazado-760" src="img/trazado-758@1x.png" alt="Trazado 760" />
+                  <div class="rectngulo-523"></div>
+                </div>
+                <img class="trazado-759" src="img/trazado-758@1x.png" alt="Trazado 759" />
+                <div class="rectngulo-524"></div>
+              </div>
+            </div>
+          </div>
+          <div class="menu">
+            <div class="overlap-group5">
+              <div class="overlap-group-2">
+                <h1 class="title britannic-bold-stack-38px">
+                  <span class="britannic-bold-aqua-forest-38px">Cuidado</span
+                  ><span class="britannic-bold-white-38px"></span><span class="britannic-bold-stack-38px-2">Digno</span>
+                </h1>
+                <p class="el-cuidado-es-para-todos skriva-light-aqua-forest-12px">El cuidado es para todos</p>
+                <div class="rectngulo-1514"></div>
+                <p class="plan-nutricional-dietas-recetas lato-bold-white-14px">Plan nutricional + Dietas + Recetas</p>
+              </div>
+              <a href="/"><div class="txt_inicio muli-regular-normal-white-28px">Inicio</div> </a
+              ><a href="/checate"><div class="txt_checate">Chécate</div> </a>
+              <div class="flex-col">
+                <div class="txt_dietas muli-bold-california-28px">Dietas</div>
+                <div class="sub_seleccion"></div>
+              </div>
+              <div class="txt_citas muli-regular-normal-white-28px">Citas</div>
+              <a href="/registro"><div class="txt_registro muli-regular-normal-white-28px">Registro</div> </a
+              ><a href="contacto.html"><div class="txt_contacto muli-regular-normal-white-28px">Contacto</div> </a>
+              <div class="tb_-busqueda">
+                <input
+                  class="buscar erasitc-light-celeste-28px"
+                  name="buscar23"
+                  placeholder="Buscar"
+                  type="text"
+                  required
+                /><img class="icon-search" src="img/lupa-1@1x.png" alt="icon-search" />
+              </div>
+            </div>
+          </div>
+          <div class="box_form-dietas"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNXTYUxQP4VHHgGnACm-NJJFNtOELGlE3TBfKwcQnBhAzYEA/viewform?embedded=true" width="596" height="599" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+{{end}}

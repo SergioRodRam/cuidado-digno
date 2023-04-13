@@ -1,0 +1,228 @@
+/* screen - checate */
+
+.checate {
+  align-items: flex-start;
+  display: flex;
+  height: 768px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.checate .overlap-group2 {
+  height: 802px;
+  margin-top: -1.81px;
+  position: relative;
+  width: 1368px;
+}
+
+.checate .fondo1 {
+  height: 770px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 1368px;
+}
+
+.checate .menu {
+  align-items: flex-start;
+  background-color: var(--thunder);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 100px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 0;
+}
+
+.checate .overlap-group1 {
+  -webkit-backdrop-filter: blur(10px) brightness(96%);
+  align-items: center;
+  backdrop-filter: blur(10px) brightness(96%);
+  border: 1px solid;
+  border-color: var(--dove-gray-2);
+  display: flex;
+  height: 100px;
+  min-width: 1365px;
+  padding: 0 11px;
+}
+
+.checate .overlap-group {
+  height: 80px;
+  margin-bottom: 1.38px;
+  position: relative;
+  width: 250px;
+}
+
+.checate .txt_inicio {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 134px;
+  margin-top: 9.5px;
+  min-height: 37px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.checate .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-left: 29px;
+  min-height: 64px;
+  width: 116px;
+}
+
+.checate .txt_checate {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  min-height: 37px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.checate .txt_checate:hover {
+  transform: scale(1.1);
+}
+
+.checate .sub_seleccion {
+  background-color: var(--california);
+  height: 6px;
+  width: 114px;
+}
+
+.checate .txt_dietas {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 25px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 90px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.checate .txt_dietas:hover {
+  transform: scale(1.1);
+}
+
+.checate .txt_citas {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 72px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.checate .txt_citas:hover {
+  transform: scale(1.1);
+}
+
+.checate .txt_registro {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.checate .txt_registro:hover {
+  transform: scale(1.1);
+}
+
+.checate .txt_contacto {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 126px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.checate .txt_contacto:hover {
+  transform: scale(1.1);
+}
+
+.checate .tb_-busqueda {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 15px;
+  display: flex;
+  gap: 44px;
+  height: 43px;
+  justify-content: flex-end;
+  margin-bottom: 1.5px;
+  margin-left: 36px;
+  min-width: 187px;
+  padding: 4.2px 9.0px;
+}
+
+.checate .box_formulario {
+  height: 669px;
+  left: 0;
+  opacity: 0.9;
+  position: absolute;
+  top: 101px;
+  width: 683px;
+}
+
+.checate .txt_instrucciones {
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 234px;
+  left: 717px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 353px;
+  width: 601px;
+}
+
+.checate .txt_formulario {
+  color: var(--white);
+  font-family: var(--font-family-mvboli-regular);
+  font-size: 45px;
+  font-weight: 400;
+  left: 838px;
+  letter-spacing: 1.41px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: 228px;
+  white-space: nowrap;
+}
+
+.checate .box_texto-form {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 669px;
+  left: 683px;
+  opacity: 0.09;
+  position: absolute;
+  top: 101px;
+  width: 683px;
+}

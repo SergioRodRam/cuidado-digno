@@ -1,0 +1,216 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600|Lato:700|Playfair+Display:700|Montserrat:400,700");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/642512abce97dc2c6e63da09.642512ac314af1d037d852e5.oz0RSCO.hcp.png");
+
+@font-face {
+  font-family: "Muli-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Muli.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Muli-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Muli-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Britannic-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/BRITANIC.TTF");
+}
+@font-face {
+  font-family: "ErasITC-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/ITCErasStd-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: "MVBoli-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/mvboli.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Muli-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/Muli-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Larsseit-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Larsseit Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AgrandirVariable-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Agrandir Variable.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AgrandirVariable-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Agrandir Variable.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SegoePrint-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/segoeprb.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+input:focus {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  left: 0;
+  letter-spacing: 1.19px;
+  line-height: 38px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.el-cuidado-es-para-todos {
+  left: 6px;
+  letter-spacing: 0.42px;
+  line-height: 12px;
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.rectngulo-1514 {
+  background-color: var(--lightning-yellow);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 21px;
+  left: 6px;
+  position: absolute;
+  top: 57px;
+  width: 242px;
+}
+
+.plan-nutricional-dietas-recetas {
+  left: 9px;
+  letter-spacing: 0.49px;
+  line-height: 14px;
+  position: absolute;
+  top: 60px;
+  white-space: nowrap;
+}
+
+.buscar {
+  align-self: flex-end;
+  background-color: transparent;
+  border: 0;
+  height: 34px;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  padding: 0;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.buscar::placeholder {
+  color: #cfcecd99;
+}
+
+.icon-search {
+  height: 19px;
+  margin-top: 2.38px;
+  object-fit: cover;
+  width: 18px;
+}
+
+.page-1 {
+  display: flex;
+  height: 20px;
+  left: 215px;
+  position: absolute;
+  top: 31px;
+  width: 27px;
+}
+
+.artboard {
+  display: flex;
+  flex: 1;
+  width: 26.67px;
+}
+
+.arrow-right {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 26.67px;
+}
+
+.shape {
+  height: 2px;
+  left: 0;
+  top: 10px;
+  width: 29px;
+}
+
+.shape-1 {
+  height: 23px;
+  left: 18px;
+  top: 0;
+  width: 10px;
+}
+
+.shape-2 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.overlap-group5 {
+  -webkit-backdrop-filter: blur(10px) brightness(96%);
+  align-items: center;
+  backdrop-filter: blur(10px) brightness(96%);
+  border: 1px solid;
+  border-color: var(--dove-gray-2);
+  display: flex;
+  height: 100px;
+  min-width: 1365px;
+  padding: 0 11px;
+}
+
+.cuidado-digno {
+  left: 0;
+  letter-spacing: 1.19px;
+  line-height: 38px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}

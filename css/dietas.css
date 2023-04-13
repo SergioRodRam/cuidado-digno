@@ -1,0 +1,451 @@
+/* screen - dietas */
+
+.dietas {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 768px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.dietas .overlap-group6 {
+  height: 770px;
+  margin-top: -1.81px;
+  position: relative;
+  width: 1366px;
+}
+
+.dietas .rectngulo-525 {
+  background-color: #333337;
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 768px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 1366px;
+}
+
+.dietas .overlap-group4 {
+  height: 600px;
+  left: 31px;
+  position: absolute;
+  top: 121px;
+  width: 1307px;
+}
+
+.dietas .rectngulo-3 {
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 73px 99px #00000017;
+  height: 599px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1305px;
+}
+
+.dietas .platillo-a-preparar {
+  color: var(--california);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: 30px;
+  font-weight: 400;
+  height: 44px;
+  left: 617px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 97px;
+  white-space: nowrap;
+  width: 464px;
+}
+
+.dietas .no-path-copia-4 {
+  border-radius: 20px;
+  height: 599px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 598px;
+}
+
+.dietas .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/trazado-739@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 130px;
+  justify-content: flex-end;
+  left: 1147px;
+  min-width: 130px;
+  padding: 41.4px 45.3px;
+  position: absolute;
+  top: 0;
+}
+
+.dietas .icon-bookmark {
+  height: 38px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.dietas .prep-10-min {
+  height: 42px;
+  left: 680px;
+  letter-spacing: 0.46px;
+  line-height: 21px;
+  position: absolute;
+  top: 469px;
+  width: 209px;
+}
+
+.dietas .cook-30-min {
+  height: 42px;
+  left: 680px;
+  letter-spacing: 0.46px;
+  line-height: 21px;
+  position: absolute;
+  top: 497px;
+  width: 209px;
+}
+
+.dietas .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/trazado-702@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 632px;
+  min-width: 40px;
+  padding: 7.7px 11.9px;
+  position: absolute;
+  top: 474px;
+}
+
+.dietas .trazado-703 {
+  height: 20px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.dietas .easy {
+  height: 42px;
+  left: 923px;
+  letter-spacing: 0.46px;
+  line-height: 21px;
+  position: absolute;
+  top: 482px;
+  width: 96px;
+}
+
+.dietas .txt_receta-gpt {
+  color: #161515;
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  height: 351px;
+  left: 632px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  width: 601px;
+}
+
+.dietas .address {
+  height: 42px;
+  left: 1127px;
+  letter-spacing: 0.46px;
+  line-height: 21px;
+  position: absolute;
+  top: 482px;
+  width: 180px;
+}
+
+.dietas .overlap-group2 {
+  height: 40px;
+  left: 883px;
+  position: absolute;
+  top: 477px;
+  width: 32px;
+}
+
+.dietas .rectngulo-512 {
+  background-color: var(--slate-gray);
+  border: 1px solid;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.dietas .trazado-704 {
+  height: 26px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 32px;
+}
+
+.dietas .icon_catergoria {
+  height: 48px;
+  left: 1055px;
+  object-fit: cover;
+  position: absolute;
+  top: 474px;
+  width: 50px;
+}
+
+.dietas .grupo-container {
+  height: 109px;
+  left: 1018px;
+  position: absolute;
+  top: 15px;
+  width: 109px;
+}
+
+.dietas .grupo-1303 {
+  display: flex;
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.dietas .trazado-739 {
+  flex: 1;
+  margin-bottom: -6.5px;
+  margin-left: -14.5px;
+  margin-right: -6.5px;
+  margin-top: -14.5px;
+  object-fit: cover;
+  width: 129.91px;
+}
+
+.dietas .grupo-1304 {
+  height: 41px;
+  left: 29px;
+  position: absolute;
+  top: 34px;
+  width: 40px;
+}
+
+.dietas .overlap-group-1 {
+  height: 28px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 41px;
+}
+
+.dietas .trazado-758 {
+  height: 15px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.dietas .trazado-760 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 15px;
+}
+
+.dietas .rectngulo-523 {
+  background-color: var(--white);
+  border: 1px solid;
+  height: 4px;
+  left: 10px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(-28.30deg);
+  width: 20px;
+}
+
+.dietas .trazado-759 {
+  height: 15px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 15px;
+}
+
+.dietas .rectngulo-524 {
+  background-color: var(--white);
+  border: 1px solid;
+  height: 20px;
+  left: 18px;
+  position: absolute;
+  top: 17px;
+  transform: rotate(-61.70deg);
+  width: 4px;
+}
+
+.dietas .menu {
+  align-items: flex-start;
+  background-color: var(--thunder);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 100px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 0;
+}
+
+.dietas .overlap-group-2 {
+  height: 80px;
+  margin-bottom: 1.38px;
+  position: relative;
+  width: 250px;
+}
+
+.dietas .txt_inicio {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 134px;
+  margin-top: 9.5px;
+  min-height: 37px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.dietas .txt_checate {
+  color: #fffefc;
+  cursor: pointer;
+  font-family: var(--font-family-muli-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 114px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.dietas .txt_checate:hover {
+  transform: scale(1.1);
+}
+
+.dietas .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-left: 29px;
+  min-height: 64px;
+  width: 92px;
+}
+
+.dietas .txt_dietas {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  min-height: 37px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.dietas .txt_dietas:hover {
+  transform: scale(1.1);
+}
+
+.dietas .sub_seleccion {
+  background-color: var(--california);
+  height: 6px;
+  width: 90px;
+}
+
+.dietas .txt_citas {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 25px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 72px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.dietas .txt_citas:hover {
+  transform: scale(1.1);
+}
+
+.dietas .txt_registro {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.dietas .txt_registro:hover {
+  transform: scale(1.1);
+}
+
+.dietas .txt_contacto {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 126px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.dietas .txt_contacto:hover {
+  transform: scale(1.1);
+}
+
+.dietas .tb_-busqueda {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 15px;
+  display: flex;
+  gap: 44px;
+  height: 43px;
+  justify-content: flex-end;
+  margin-bottom: 1.5px;
+  margin-left: 36px;
+  min-width: 187px;
+  padding: 4.2px 9.0px;
+}
+
+.dietas .box_form-dietas {
+  height: 599px;
+  left: 31px;
+  opacity: 0.9;
+  position: absolute;
+  top: 123px;
+  width: 596px;
+}

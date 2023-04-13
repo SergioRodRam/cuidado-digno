@@ -1,0 +1,469 @@
+/* screen - contacto */
+
+.contacto {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 768px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.contacto .overlap-group6 {
+  height: 770px;
+  margin-top: -1.81px;
+  position: relative;
+  width: 1366px;
+}
+
+.contacto .rectangle {
+  background-color: #11141c;
+  left: 0;
+  width: 1065px;
+}
+
+.contacto .x70da5e03650f9e1a41a10233f50250c4 {
+  height: 768px;
+  left: 502px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 864px;
+}
+
+.contacto .rectangle-1 {
+  background-color: #c57e00;
+  left: 502px;
+  opacity: 0.74;
+  width: 864px;
+}
+
+.contacto .grupo-292 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 605px;
+  position: absolute;
+  top: 101px;
+  width: 502px;
+}
+
+.contacto .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--shark);
+  display: flex;
+  height: 110px;
+  min-width: 502px;
+  padding: 39.5px 26.3px;
+}
+
+.contacto .portfolio {
+  background-color: transparent;
+  border: 0;
+  height: 29px;
+  letter-spacing: 0.53px;
+  line-height: 17px;
+  padding: 0;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.contacto .portfolio::placeholder {
+  color: #ffffff99;
+}
+
+.contacto .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  height: 110px;
+  margin-top: 30px;
+  min-width: 502px;
+  padding: 28.3px 26.3px;
+}
+
+.contacto .portfolio-1 {
+  background-color: transparent;
+  border: 0;
+  height: 29px;
+  letter-spacing: 0.53px;
+  line-height: 17px;
+  padding: 0;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.contacto .portfolio-1::placeholder {
+  color: #ffffff99;
+}
+
+.contacto .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  gap: 108px;
+  height: 310px;
+  justify-content: flex-end;
+  margin-top: 45px;
+  min-width: 502px;
+}
+
+.contacto .portfolio-2 {
+  background-color: transparent;
+  border: 0;
+  height: 29px;
+  letter-spacing: 0.53px;
+  line-height: 17px;
+  margin-top: 17.03px;
+  padding: 0;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.contacto .portfolio-2::placeholder {
+  color: #ffffff99;
+}
+
+.contacto .overlap-group1 {
+  align-self: flex-end;
+  height: 88px;
+  position: relative;
+  width: 262px;
+}
+
+.contacto .rectngulo-14 {
+  background-color: var(--california);
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 197px;
+}
+
+.contacto .rectngulo-15 {
+  background-color: #e89400;
+  height: 88px;
+  left: 194px;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.contacto .portfolio-3 {
+  color: var(--white);
+  font-family: var(--font-family-muli-light);
+  font-size: 34px;
+  font-weight: 300;
+  left: 48px;
+  letter-spacing: 1.06px;
+  line-height: 34px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.contacto .overlap-group {
+  height: 23px;
+  margin-top: -1.41px;
+  position: relative;
+  width: 29px;
+}
+
+.contacto .grupo-293 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 666px;
+  min-height: 543px;
+  position: absolute;
+  top: 99px;
+  width: 538px;
+}
+
+.contacto .bring-your-creativit {
+  color: var(--white);
+  font-family: var(--font-family-playfair_display);
+  font-size: 55px;
+  font-weight: 700;
+  letter-spacing: 1.72px;
+  line-height: 94px;
+  margin-bottom: -18px;
+  margin-right: 59.0px;
+  margin-top: -10px;
+  min-height: 76px;
+  min-width: 243px;
+  white-space: nowrap;
+}
+
+.contacto .portfolio-4 {
+  color: var(--white);
+  font-family: var(--font-family-mvboli-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 191px;
+  letter-spacing: 0.56px;
+  line-height: 18px;
+  margin-top: 87px;
+  width: 538px;
+}
+
+.contacto .flex-row {
+  gap: 27px;
+  height: 37px;
+  margin-right: 28.0px;
+  margin-top: 17px;
+  min-width: 304px;
+}
+
+.contacto .mail {
+  display: flex;
+  height: 32px;
+  width: 30px;
+}
+
+.contacto .grupo-218 {
+  background-image: url(../img/icon---mail@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 30px;
+}
+
+.contacto .enmascarar-grupo {
+  flex: 1;
+  object-fit: cover;
+  width: 30px;
+}
+
+.contacto .portfolio-5 {
+  align-self: flex-end;
+  letter-spacing: 0.62px;
+  line-height: 20px;
+  min-height: 34px;
+  min-width: 247px;
+  white-space: nowrap;
+}
+
+.contacto .flex-row-1 {
+  margin-right: 103.0px;
+  margin-top: 33px;
+  min-width: 229px;
+}
+
+.contacto .phone {
+  display: flex;
+  height: 40px;
+  width: 30px;
+}
+
+.contacto .grupo-75 {
+  background-image: url(../img/icon---phone@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 30px;
+}
+
+.contacto .portfolio-6 {
+  letter-spacing: 0.62px;
+  line-height: 20px;
+  margin-bottom: 1px;
+  min-height: 34px;
+  min-width: 172px;
+  white-space: nowrap;
+}
+
+.contacto .flex-row-2 {
+  margin-right: 52.0px;
+  margin-top: 32px;
+  min-width: 280px;
+}
+
+.contacto .globe {
+  display: flex;
+  height: 40px;
+  width: 30px;
+}
+
+.contacto .grupo-117 {
+  background-image: url(../img/icon---globe@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 30px;
+}
+
+.contacto .portfolio-7 {
+  letter-spacing: 0.62px;
+  line-height: 20px;
+  margin-bottom: 1px;
+  min-height: 34px;
+  min-width: 223px;
+  white-space: nowrap;
+}
+
+.contacto .menu {
+  align-items: flex-start;
+  background-color: var(--thunder);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 100px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 0;
+}
+
+.contacto .overlap-group-1 {
+  height: 80px;
+  margin-bottom: 1.38px;
+  position: relative;
+  width: 250px;
+}
+
+.contacto .txt_inicio {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 134px;
+  margin-top: 9.5px;
+  min-height: 37px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.contacto .txt_checate {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 114px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.contacto .txt_checate:hover {
+  transform: scale(1.1);
+}
+
+.contacto .txt_dietas {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 90px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.contacto .txt_dietas:hover {
+  transform: scale(1.1);
+}
+
+.contacto .txt_citas {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 72px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.contacto .txt_citas:hover {
+  transform: scale(1.1);
+}
+
+.contacto .txt_registro {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  margin-left: 28px;
+  margin-top: 7.5px;
+  min-height: 37px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.contacto .txt_registro:hover {
+  transform: scale(1.1);
+}
+
+.contacto .flex-col {
+  align-self: flex-end;
+  flex-direction: column;
+  gap: 21px;
+  margin-left: 29px;
+  min-height: 64px;
+  width: 130px;
+}
+
+.contacto .txt_contacto {
+  cursor: pointer;
+  letter-spacing: 0.88px;
+  line-height: 28px;
+  min-height: 37px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.contacto .txt_contacto:hover {
+  transform: scale(1.1);
+}
+
+.contacto .sub_seleccion {
+  background-color: var(--california);
+  height: 6px;
+  width: 128px;
+}
+
+.contacto .tb_-busqueda {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 15px;
+  display: flex;
+  gap: 44px;
+  height: 43px;
+  justify-content: flex-end;
+  margin-bottom: 1.5px;
+  margin-left: 31px;
+  min-width: 187px;
+  padding: 4.2px 9.0px;
+}
+
+.contacto .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.contacto .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  gap: 27px;
+}
+
+.contacto .rectangle-2 {
+  height: 768px;
+  position: absolute;
+  top: 2px;
+}
